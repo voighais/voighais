@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  <font color="#58a6ff">hello, i am voighais</font>
+  <font color="#58a6ff">Hello ! i am voighais</font>
 </h3>
 
 <p align="center">
