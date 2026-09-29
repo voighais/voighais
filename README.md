@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BC8F44&height=180&section=header&text=&animation=fadeIn" alt="banner top" />
-</p>
-
 <h2 align="center">
   <font color="#58a6ff">Hello !</font><br>
   <font color="#8b949e">i am </font><font color="#ff5555">voighais</font>
@@ -21,7 +17,6 @@
 
 <br>
 
-<!-- блок с языками (строго по центру) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>&nbsp;&nbsp;
@@ -30,16 +25,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 </p>
 
-<!-- блок с прогами (строго по центру) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visual studio" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BC8F44&height=180&section=footer&text=&animation=fadeIn" alt="banner bottom" />
 </p>
