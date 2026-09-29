@@ -1,31 +1,28 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Voighais;Python+%7C+C%2B%2B+%7C+Web+Developer;Welcome+to+my+profile" alt="Typing SVG" />
-</h1>
+### hello, i am a developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=voighais&label=Profile%20views&color=00d9ff&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/voighais?label=Followers&style=flat-square&color=00d9ff&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Tools-00d9ff?style=flat-square" />
-</p>
+here are my main projects, contacts, and tech stack. i write code, build various things, and automate processes.
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+### 🌐 projects
 
-### About Me
+* **[mcpilot](https://voighais.github.io/mcpilot)** - main project website.
+* **[mcpilot flat version](https://voighais.github.io/mcpilot-flat/)** - lightweight flat version of the site.
 
-```python
-class Voighais:
-    def __init__(self):
-        self.name = "Voighais"
-        self.role = "Developer"
-        self.languages = ["Python", "C++", "HTML", "CSS", "JavaScript"]
-        self.telegram = "[https://t.me/voighais](https://t.me/voighais)"
-        self.website = "[https://voighais.github.io/mcpilot](https://voighais.github.io/mcpilot)"
-        self.motto = "Code. Create. Improve."
+---
 
-    def say_hi(self):
-        print("Thanks for checking out my profile!")
+### 📬 contact
 
-me = Voighais()
-me.say_hi()
+* telegram: [@voighais](https://t.me/voighais)
+
+---
+
+### 🛠 tech stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
