@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=voighais&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BC8F44&height=180&section=header&text=&animation=fadeIn" alt="banner top" />
 </p>
 
 <h3 align="center">
@@ -37,4 +37,8 @@
 
 <p align="center">
   <code>[status: active & building]</code>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BC8F44&height=180&section=footer&text=&animation=fadeIn" alt="banner bottom" />
 </p>
