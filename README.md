@@ -2,13 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BC8F44&height=180&section=header&text=&animation=fadeIn" alt="banner top" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="acdc vibe" width="60" height="60" style="display:none;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/AC%2FDC_logo.svg" alt="AC/DC" width="180"/>
-</p>
-
 <h3 align="center">
-  <font color="#58a6ff">hello, i am voighais</font>
+  <font color="#58a6ff">Hello ! i am voighais</font>
 </h3>
 
 <p align="center">
@@ -19,8 +14,8 @@
 
 ### <font color="#f0883e">projects</font>
 
-* **[mcpilot](https://voighais.github.io/mcpilot)** - main project website.
-* **[mcpilot flat version](https://voighais.github.io/mcpilot-flat/)** - lightweight flat version of the site.
+* [mcpilot](https://voighais.github.io/mcpilot) - main project website.
+* [mcpilot flat version](https://voighais.github.io/mcpilot-flat/) - lightweight flat version of the site.
 
 ### <font color="#f0883e">contact</font>
 
