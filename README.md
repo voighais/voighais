@@ -1,42 +1,31 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,8,12&height=200&section=header&text=voighais&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38" />
-</p>
-
-### Hi there, I'm voighais! 👋
-
-> *Homo Sapiens Распиздяй Осознанный*
-
----
-
-### 💻 Tech Stack & Tools:
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Minecraft-5C4033?style=for-the-badge&logo=minecraft&logoColor=white" />
-</p>
-
----
-
-### 🚀 Projects:
-- **[McPilot](https://github.com/voighais/mcpilot)** – A cross-platform Minecraft server manager built with Python[cite: 3].
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=voighais&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" />
-</p>
-
----
-
-### 🌐 Connect with me:
-- 📢 [Telegram DevLog Channel](https://t.me/voighais)[cite: 3]
-- 🌐 [McPilot Official Website](https://voighais.github.io/mcpilot)[cite: 3]
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Voighais;Python+%7C+C%2B%2B+%7C+Web+Developer;Welcome+to+my+profile" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://komarev.com/ghpvc/?username=voighais&label=Profile%20views&color=00d9ff&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/voighais?label=Followers&style=flat-square&color=00d9ff&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Tools-00d9ff?style=flat-square" />
 </p>
+
+---
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+### About Me
+
+```python
+class Voighais:
+    def __init__(self):
+        self.name = "Voighais"
+        self.role = "Developer"
+        self.languages = ["Python", "C++", "HTML", "CSS", "JavaScript"]
+        self.telegram = "[https://t.me/voighais](https://t.me/voighais)"
+        self.website = "[https://voighais.github.io/mcpilot](https://voighais.github.io/mcpilot)"
+        self.motto = "Code. Create. Improve."
+
+    def say_hi(self):
+        print("Thanks for checking out my profile!")
+
+me = Voighais()
+me.say_hi()
