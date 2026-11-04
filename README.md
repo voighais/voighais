@@ -15,8 +15,6 @@
 
 <br>
 
-<h3 align="center">🛠 Tech Stack</h3>
-
 <p align="center">
   <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>&nbsp;&nbsp;
