@@ -14,7 +14,7 @@
 
 <br>
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack AnD Tools
 
 <p align="center">
   <!-- Languages -->
